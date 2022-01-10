@@ -1,5 +1,5 @@
 ## :exclamation: 1. Description
-This is a repository for the comments of my hexo blog and blog picture.
+This is a repository for storing some blog pictures.
 
 ## 👊 2. Contributor
 Jiakai Gu
