@@ -1,5 +1,3 @@
-## :exclamation: 1. Description
-This is a repository for storing some blog pictures.
+## 说明
 
-## 👊 2. Contributor
-Jiakai Gu
+这个仓库用来存储一些博客里面的图片。
